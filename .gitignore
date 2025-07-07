@@ -2,6 +2,13 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.idea/
+.idea/.gitignore
+.idea/credit-risk-model.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
 
 # C extensions
 *.so
