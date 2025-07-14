@@ -13,7 +13,7 @@ A machine learning project to predict whether a customer is likely to default on
 
 ## 📦 Data Sources
 > ⚠️ *The dataset used in this project is provided as part of a [CodeBasics](https://codebasics.io) course and is not included in this repository due to licensing restrictions.*
-The dataset includes:
+The datasets include 50,000 rows and 3 tables:
 - **Customer data** (demographics, income, residence, employment etc)
 - **Loan application data** (loan amount, fees, purpose etc)
 - **Credit bureau data** (accounts, defaults, utilization, DPD etc)
